@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <!DOCTYPE XMI SYSTEM "C:\Documents and Settings\kitikat\.netbeans\6.7\.uml\config\UML_2.0EMBT.dtd"> --><XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0"> <XMI.header> <XMI.metamodel xmi.name="UML" xmi.version="1.4"/> <XMI.documentation> <XMI.exporter> Embarcadero's Describe </XMI.exporter> <XMI.exporterVersion> 6.0 </XMI.exporterVersion> </XMI.documentation> </XMI.header> <XMI.content> <UML:Project xmi.id="DCE.5E2572A8-21BA-741C-3264-ED7554E2AAA7" mode="Implementation" defaultLanguage="Java" projVersion="6.1.4.837" name="ProjektIOAD2009"><UML:Element.ownedElement>
 <UML:Class xmi.id="DCE.C684A6D5-52A2-9987-6696-AF2CA6261160" name="GitTest" owner="DCE.5E2572A8-21BA-741C-3264-ED7554E2AAA7"><UML:Element.presentation>
+
 </UML:Element.presentation><UML:Element.ownedElement>
 <UML:Operation xmi.id="DCE.98C3F75E-C813-404A-A642-A162576AC410" name="GitTest" isConstructor="true" owner="DCE.C684A6D5-52A2-9987-6696-AF2CA6261160"><UML:Element.presentation>
-</UML:Element.presentation></UML:Operation></UML:Element.ownedElement></UML:Class></UML:Element.ownedElement></UML:Project></XMI.content> </XMI>
+
+</UML:Element.presentation></UML:Operation></UML:Element.ownedElement></UML:Class>
+<UML:Interface xmi.id="DCE.1BB61F76-9B5E-E8FC-6270-42377F4DC035" name="Unnamed" isAbstract="true" owner="DCE.5E2572A8-21BA-741C-3264-ED7554E2AAA7" appliedStereotype="__uri_.\ProjektIOAD2009.etup#//*[@xmi.id=&quot;DCE.6F00E988-F902-E25A-C018-77BCF6FAA6EF&quot;]"><UML:Element.presentation>
+</UML:Element.presentation></UML:Interface></UML:Element.ownedElement><UML:Package.packageImport>
+<UML:PackageImport xmi.id="DCE.B1667D88-EBA1-D5B4-B504-1B91AD92214D" importingPackage="DCE.5E2572A8-21BA-741C-3264-ED7554E2AAA7"><UML:PackageImport.importedPackage>
+<UML:Profile xmi.id="DCE.573C6AC7-F102-FC52-D9B9-9B8420E83117" name="Unnamed" isCloned="true" href=".\ProjektIOAD2009.etup#//*[@xmi.id=&apos;DCE.573C6AC7-F102-FC52-D9B9-9B8420E83117&apos;]" isDirty="false"/></UML:PackageImport.importedPackage><UML:Element.ownedElement>
+<UML:TaggedValue xmi.id="DCE.6F43394A-0BBC-76BF-2626-9EF55170BDB2" owner="DCE.B1667D88-EBA1-D5B4-B504-1B91AD92214D" name="autoCreated">
+<UML:TaggedValue.dataValue>true</UML:TaggedValue.dataValue></UML:TaggedValue></UML:Element.ownedElement></UML:PackageImport></UML:Package.packageImport></UML:Project></XMI.content> </XMI>

@@ -27,11 +27,11 @@
 	<!ATTLIST Irresolvable 
 		   id CDATA #IMPLIED >
 ]--><TypeManagement projectID="DCE.5E2572A8-21BA-741C-3264-ED7554E2AAA7">
-	<Locations nextID="0">
-	</Locations>
+	<Locations nextID="1">
+	<Location locID="T.0" href=".\ProjektIOAD2009.etup"/></Locations>
 
    <Types>
-   </Types>
+   <Type id="DCE.573C6AC7-F102-FC52-D9B9-9B8420E83117" location="T.0" name="Unnamed"/></Types>
 
 	<IrresolvableTypes>
 	</IrresolvableTypes>
