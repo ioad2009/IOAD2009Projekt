@@ -1,0 +1,29 @@
+<XMI xmi.version="1.2"  xmlns:UML="org.omg.xmi.namespace.UML"  timestamp="5 październik 2009 20:49:35 CEST" >
+<XMI.content>
+<UML:Diagram isVisible="false"  zoom="1.0"  name="State Diagram 1"  xmi.id="DCE.850E4CAF-43DE-550E-397E-1F442286D720" >
+<UML:GraphElement.position>
+     <XMI.field>0</XMI.field>
+     <XMI.field>0</XMI.field>
+</UML:GraphElement.position>
+<UML:GraphNode.size>
+     <XMI.field>0</XMI.field>
+     <XMI.field>0</XMI.field>
+</UML:GraphNode.size>
+<UML:Diagram.viewport>
+     <XMI.field>0</XMI.field>
+     <XMI.field>0</XMI.field>
+</UML:Diagram.viewport>
+<UML:DiagramElement.property>
+<UML:Property value="DCE.6771D836-6E9D-02E8-CCAD-1F2710A0E3FC"  key="netbeans-diagram-namespace" />
+<UML:Property value="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"  xmi.id="Property2_PEID"  key="netbeans-diagram-projectID" />
+</UML:DiagramElement.property>
+<UML:GraphElement.semanticModel>
+<UML:SimpleSemanticModelElement presentation=""  xmi.id="DCE.850E4CAF-43DE-550E-397E-1F442286D720"  typeinfo="State Diagram" />
+</UML:GraphElement.semanticModel>
+<UML:GraphElement.contained>
+</UML:GraphElement.contained>
+<UML:Diagram.owner>
+</UML:Diagram.owner>
+</UML:Diagram>
+</XMI.content>
+</XMI>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <!DOCTYPE XMI SYSTEM "C:\Users\kitikat\.netbeans\6.7\.uml\config\UML_2.0EMBT.dtd"> --><XMI xmlns:UML="omg.org/UML/1.4" xmi.version="2.0"> <XMI.header> <XMI.metamodel xmi.name="UML" xmi.version="1.4"/> <XMI.documentation> <XMI.exporter> Embarcadero's Describe </XMI.exporter> <XMI.exporterVersion> 6.0 </XMI.exporterVersion> </XMI.documentation> </XMI.header> <XMI.content> <UML:Project xmi.id="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9" mode="Implementation" defaultLanguage="Java" projVersion="6.1.4.837" name="UMLProject1"><UML:Element.ownedElement>
-<UML:Class xmi.id="DCE.BE138216-FC8C-9118-A572-CAA8212CED27" name="Unnamed" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"><UML:Element.presentation>
 
-</UML:Element.presentation></UML:Class>
 <UML:Class xmi.id="DCE.805E417E-A11B-064E-DF8A-1473CD0248C8" name="Unnamed" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"><UML:Element.presentation>
 </UML:Element.presentation></UML:Class>
 <UML:Class xmi.id="DCE.115F6EA1-77B8-E918-03CD-F386663891C4" name="Unnamed" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"><UML:Element.presentation>
-</UML:Element.presentation></UML:Class></UML:Element.ownedElement></UML:Project></XMI.content> </XMI>
+</UML:Element.presentation></UML:Class>
+<UML:Actor xmi.id="DCE.EAD79B80-5796-3502-109F-5943249DB0A7" name="Unnamed" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"><UML:Element.presentation>
+</UML:Element.presentation></UML:Actor>
+<UML:StateMachine xmi.id="DCE.6771D836-6E9D-02E8-CCAD-1F2710A0E3FC" name="State Diagram 1" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"><UML:Element.ownedElement>
+<UML:Region xmi.id="DCE.3AF65A9C-82AB-EAEC-F2FA-39F016A510C1" name="Unnamed" owner="DCE.6771D836-6E9D-02E8-CCAD-1F2710A0E3FC"/></UML:Element.ownedElement></UML:StateMachine></UML:Element.ownedElement></UML:Project></XMI.content> </XMI>
