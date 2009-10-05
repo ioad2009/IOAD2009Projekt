@@ -8,4 +8,5 @@
 <UML:Actor xmi.id="DCE.EAD79B80-5796-3502-109F-5943249DB0A7" name="Unnamed" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"><UML:Element.presentation>
 </UML:Element.presentation></UML:Actor>
 <UML:StateMachine xmi.id="DCE.6771D836-6E9D-02E8-CCAD-1F2710A0E3FC" name="State Diagram 1" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"><UML:Element.ownedElement>
-<UML:Region xmi.id="DCE.3AF65A9C-82AB-EAEC-F2FA-39F016A510C1" name="Unnamed" owner="DCE.6771D836-6E9D-02E8-CCAD-1F2710A0E3FC"/></UML:Element.ownedElement></UML:StateMachine></UML:Element.ownedElement></UML:Project></XMI.content> </XMI>
+<UML:Region xmi.id="DCE.3AF65A9C-82AB-EAEC-F2FA-39F016A510C1" name="Unnamed" owner="DCE.6771D836-6E9D-02E8-CCAD-1F2710A0E3FC"/></UML:Element.ownedElement></UML:StateMachine>
+<UML:Enumeration xmi.id="DCE.3CF5BB49-30BD-40EC-8E1B-AC4B944069B5" name="Unnamed" owner="DCE.2E4DE2C4-F399-03EB-C4E8-BF70CFE2ECC9"/></UML:Element.ownedElement></UML:Project></XMI.content> </XMI>
