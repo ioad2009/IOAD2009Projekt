@@ -1,0 +1,1 @@
+mowi³em zeby nie czytaæ!
